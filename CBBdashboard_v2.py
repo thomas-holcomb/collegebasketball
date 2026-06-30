@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  3 16:18:15 2026
-
-@author: tholcomb
-"""
-
 import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine
